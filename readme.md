@@ -1,0 +1,1 @@
+React and ReactDOM usage as base libraries without JSX and bells and whistles
